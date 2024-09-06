@@ -8,7 +8,7 @@ ElielJEE/ElielJEE is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-💻## Techs:
+💻 ## Techs:
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-📊## GitHub Stats:
+📊 ## GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElielJEE&show_icons=true&theme=dark)
 
