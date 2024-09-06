@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel?style=flat-square&color=%23FF2D20)
+![Laravel](https://img.shields.io/badge/-Laravel-23FF2D20?style=flat-square&logo=laravel&logoColor=23FF2D20)
