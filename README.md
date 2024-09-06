@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElielJEE&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ElielJEE&color=blue&style=flat-square)
