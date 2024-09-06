@@ -26,3 +26,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElielJEE&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElielJEE&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blue&style=flat-square)
